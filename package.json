@@ -1,0 +1,23 @@
+{
+  "name": "workshop-microservices-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andressalro/workshop-microservices-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andressalro/workshop-microservices-ts/issues"
+  },
+  "homepage": "https://github.com/andressalro/workshop-microservices-ts#readme"
+}
